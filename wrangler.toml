@@ -1,4 +1,4 @@
 name = "anrich-tait-site"
 compatibility_date = "2025-09-10"
 compatibility_flags = ["nodejs_compat"]
-pages_build_output_dir = ".svelte-kit/output"
+pages_build_output_dir = ".svelte-kit"
